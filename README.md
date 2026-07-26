@@ -1,4 +1,4 @@
-# 桜ノベル — Sakura Novels
+# 桜ノベル — VNBookR
 
 A Japanese-style Visual Novel reader that imports PDF / TXT / DOCX / EPUB books and renders them as immersive visual novels, with three UI modes (ADV / NVL / Frame) inspired by "The Magic of Buttons" article.
 
